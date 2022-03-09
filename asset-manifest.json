@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/PostalNevada/static/css/main.7a94fd84.css",
-    "main.js": "/PostalNevada/static/js/main.3053f080.js",
+    "main.js": "/PostalNevada/static/js/main.23cd485c.js",
     "static/js/787.a7fd2a01.chunk.js": "/PostalNevada/static/js/787.a7fd2a01.chunk.js",
     "static/media/fondonevado.jpg": "/PostalNevada/static/media/fondonevado.5c5d0b9168f75643499b.jpg",
     "index.html": "/PostalNevada/index.html",
     "main.7a94fd84.css.map": "/PostalNevada/static/css/main.7a94fd84.css.map",
-    "main.3053f080.js.map": "/PostalNevada/static/js/main.3053f080.js.map",
+    "main.23cd485c.js.map": "/PostalNevada/static/js/main.23cd485c.js.map",
     "787.a7fd2a01.chunk.js.map": "/PostalNevada/static/js/787.a7fd2a01.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a94fd84.css",
-    "static/js/main.3053f080.js"
+    "static/js/main.23cd485c.js"
   ]
 }
