@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.Titol {
+  font-size: 100px;
+  color: rgb(255, 255, 255);
+  margin-top: 8%;
+}
+
+.floc {
+  position: fixed;
+  color: rgb(240, 196, 253);
+  font-size: 35px;
+}
+html {
+  background: url("fondonevado.jpg") no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+}
