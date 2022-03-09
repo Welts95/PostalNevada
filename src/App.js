@@ -7,6 +7,7 @@ export default function App() {
       <div className="App">
         <Nevada />
       </div>
+      <footer>Web creada per Gerard Hueltes</footer>
     </>
   );
 }
